@@ -1,4 +1,4 @@
 # calendar-vue
 
-see The app in netlify
-https://calendar-vue.netlify.app/
+see Calendar [here](https://calendar-vue.netlify.app/)
+
